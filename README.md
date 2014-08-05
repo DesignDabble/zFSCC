@@ -1,8 +1,6 @@
 # Codekit + Foundation + Compass + Sass Starter Template
 
-## Codekit Instructions
-
-In Codekit:
+## Setup Instructions
 
 Create an empty folder anywhere in your directory i.e. ../Desktop/Zurb5.3.3
 
