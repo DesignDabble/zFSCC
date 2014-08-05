@@ -1,4 +1,4 @@
-# Template to start new Codekit using Foundation + Compass + Sass
+# Codekit + Foundation + Compass + Sass Starter Template
 
 ## Codekit Instructions
 
