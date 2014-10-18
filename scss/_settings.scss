@@ -5,7 +5,7 @@
 //
 // FOUNDATION SETTINGS
 //
- @mixin font-face($name, $font-files, $eot: false, $weight: false, $style: false) {
+@mixin font-face($name, $font-files, $eot: false, $weight: false, $style: false) {
   $iefont: unquote("#{$eot}?#iefix");
   @font-face {
     font-family: quote($name);
@@ -23,16 +23,16 @@
   }
 }
 
-@include font-face("ClearSans", font-files("ClearSans/ClearSans-Regular.woff", "ClearSans/ClearSans-Regular.svg"), "ClearSans-Regular.eot");
-@include font-face("ClearSans-Light", font-files("ClearSans/ClearSans-Light.woff", "ClearSans/ClearSans-Light.svg"), "ClearSans-Light.eot");
-@include font-face("ClearSans-Bold", font-files("ClearSans/ClearSans-Bold.woff", "ClearSans/ClearSans-Bold.svg"), "ClearSans-Bold.eot");
-@include font-face("ClearSans-Thin", font-files("ClearSans/ClearSans-Light.woff", "ClearSans/ClearSans-Light.svg"), "ClearSans-Light.eot");
+// @include font-face("ClearSans", font-files("ClearSans/ClearSans-Regular.woff", "ClearSans/ClearSans-Regular.svg"), "ClearSans-Regular.eot");
+// @include font-face("ClearSans-Light", font-files("ClearSans/ClearSans-Light.woff", "ClearSans/ClearSans-Light.svg"), "ClearSans-Light.eot");
+// @include font-face("ClearSans-Bold", font-files("ClearSans/ClearSans-Bold.woff", "ClearSans/ClearSans-Bold.svg"), "ClearSans-Bold.eot");
+// @include font-face("ClearSans-Thin", font-files("ClearSans/ClearSans-Light.woff", "ClearSans/ClearSans-Light.svg"), "ClearSans-Light.eot");
 
 // This is the default html and body font-size for the base rem value.
 // $rem-base: 16px;
 
 // Allows the use of rem-calc() or lower-bound() in your settings
-@import "foundation/functions";
+@import 'foundation/functions';
 
 // The default font-size is set to 100% of the browser style sheet (usually 16px)
 // for compatibility with browser-based text zoom or user-set defaults.
@@ -83,16 +83,16 @@ $body-font-family: "ClearSans-Light", Arial, sans-serif;
 
 /////////////
   // Favorites Colors
-  $mako: #3C4248;
-  $trout: #505962;
-  $sirocco: #718080;
-  $salmon: #FF8C69;
-  $coral: #FF7F50;
-  $neon-carrot: #F37F20;
-  $cinnabar: #e74f4a; // $warning-color
-  $sunset-orange: #FB4A45; // bright-red/orange
-  $porcelain: #ECF0F1;
-  $puerto-rico: #3DC9B3;
+$mako: #3c4248;
+$trout: #505962;
+$sirocco: #718080;
+$salmon: #ff8c69;
+$coral: #ff7f50;
+$neon-carrot: #f37f20;
+$cinnabar: #e74f4a; // $warning-color
+$sunset-orange: #fb4a45; // bright-red/orange
+$porcelain: #ecf0f1;
+$puerto-rico: #3dc9b3;
 
 // We use these as default colors throughout
 // $primary-color: #008CBA;
@@ -177,7 +177,7 @@ $shiny-edge-active-color: rgba(#000, .2);
 // $header-top-margin: .2rem;
 // $header-bottom-margin: .5rem;
 // $header-text-rendering: optimizeLegibility;
-$header-font-family: "ClearSans";
+$header-font-family: 'ClearSans';
 
 // We use these to control header font sizes
 // $h1-font-size: rem-calc(44);
@@ -1314,7 +1314,8 @@ $sub-nav-active-cursor: default;
 // Transitions and breakpoint styles
 // $topbar-transition-speed: 300ms;
 // Using rem-calc for the below breakpoint causes issues with top bar
-// $topbar-breakpoint: #{lower-bound($medium-range)}; // Change to 9999px for always mobile layout
+// $topbar-breakpoint: #{lower-bound($medium-range)}; 
+// Change to 9999px for always mobile layout
 // $topbar-media-query: $medium-up;
 
 // Divider Styles

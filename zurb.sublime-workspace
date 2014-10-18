@@ -4,6 +4,58 @@
 		"selected_items":
 		[
 			[
+				"pure-menu",
+				"pure-menu-heading"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"scrip",
+				"script	Tag"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
 				"p",
 				"p	Tag"
 			],
@@ -20,20 +72,8 @@
 				"text-transform"
 			],
 			[
-				"text",
-				"text-align"
-			],
-			[
-				"backg",
-				"background"
-			],
-			[
 				"rgb",
 				"rgba	rgba()"
-			],
-			[
-				"margin",
-				"margin-bottom"
 			],
 			[
 				"font",
@@ -64,24 +104,12 @@
 				"display"
 			],
 			[
-				"padd",
-				"padding-left"
-			],
-			[
-				"bac",
-				"background"
-			],
-			[
 				"co",
 				"color"
 			],
 			[
 				"bd",
 				"BDB88D"
-			],
-			[
-				"paddin",
-				"padding-right"
 			],
 			[
 				"backgroun",
@@ -144,18 +172,10 @@
 	"buffers":
 	[
 		{
-			"file": "scss/_settings.scss",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 45356,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "scss/app.scss",
-			"settings":
-			{
-				"buffer_size": 1522,
+				"buffer_size": 6811,
 				"line_ending": "Unix"
 			}
 		},
@@ -163,24 +183,23 @@
 			"file": "scss/_custom-settings.scss",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Unix",
-				"name": "_custom-settings.scss"
-			}
-		},
-		{
-			"file": "index2.html",
-			"settings":
-			{
-				"buffer_size": 489,
+				"buffer_size": 28,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "scss/app.scss",
 			"settings":
 			{
-				"buffer_size": 6726,
+				"buffer_size": 1495,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1248,
 				"line_ending": "Unix"
 			}
 		}
@@ -188,39 +207,103 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 400.0,
+		"height": 315.0,
 		"selected_items":
 		[
 			[
-				"cret",
-				"Origami: Create Pane with File on the Right"
+				"proj",
+				"Project: Close"
 			],
 			[
-				"html",
-				"Snippet: html"
+				"status",
+				"Git: Status"
 			],
 			[
-				"inst",
-				"Package Control: Install Package"
+				"upgra",
+				"Package Control: Upgrade Package"
 			],
 			[
-				"instal",
-				"Package Control: Install Package"
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
 			],
 			[
 				"remov",
 				"Package Control: Remove Package"
 			],
 			[
-				"re mo",
+				"remove",
 				"Package Control: Remove Package"
 			],
 			[
-				"insta",
+				"syntsc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"syntscs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"beau",
+				"SassBeautify"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"toggl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"setsyscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"syntscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"instl",
 				"Package Control: Install Package"
 			],
 			[
-				"projec",
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syncss3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"synscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"synt",
+				"Set Syntax: Sass"
+			],
+			[
+				"save",
 				"Project: Save As"
 			],
 			[
@@ -228,215 +311,187 @@
 				"Project: Add Folder"
 			],
 			[
-				"close",
+				"pr",
 				"Project: Close"
 			],
 			[
-				"bro",
-				"Preferences: Browse Packages"
+				"syncss",
+				"Set Syntax: CSS3"
 			],
 			[
-				"create",
-				"Origami: Create Pane with File on the Right"
+				"commi",
+				"Git: Commit"
 			],
 			[
-				"movepa",
-				"Origami: Move File to Pane on the Right"
+				"comm",
+				"Git: Commit"
 			],
 			[
-				"orig",
-				"Package Control: Upgrade/Overwrite All Packages"
-			],
-			[
-				"b",
-				"Preferences: Browse Packages"
-			],
-			[
-				"def",
+				"defau",
 				"Preferences: Settings - Default"
 			],
 			[
-				"syn",
-				"Set Syntax: HTML"
+				"user",
+				"Preferences: Settings - User"
 			],
 			[
-				"syntax",
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"syntacss",
+				"Set Syntax: CSS3"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"spell",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"synscs",
 				"Set Syntax: SCSS"
 			],
 			[
-				"synt",
+				"syn",
 				"Set Syntax: Sass"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
+				"upgrad",
+				"Package Control: Upgrade Package"
 			],
 			[
-				"dest",
-				"Origami: Destroy Current Pane"
+				"enab",
+				"Package Control: Enable Package"
 			],
 			[
-				"togglemini",
-				"View: Toggle Minimap"
+				"enable",
+				"Package Control: Enable Package"
 			],
 			[
-				"gutter",
-				"SublimeLinter: Choose Gutter Theme"
-			],
-			[
-				"wor",
-				"Word Wrap: Toggle"
-			],
-			[
-				"theme",
-				"Themr: List themes"
-			],
-			[
-				"word",
-				"Word Wrap: Toggle"
-			],
-			[
-				"crea",
-				"Origami: Create Pane with File on the Left"
-			],
-			[
-				"movefi",
-				"Origami: Move File to Pane Below"
-			],
-			[
-				"fol",
-				"Code Folding: Fold Tag Attributes"
-			],
-			[
-				"des",
-				"Origami: Destroy Current Pane"
+				"syscs",
+				"Set Syntax: SCSS"
 			],
 			[
 				"gitpush",
-				"Git: Push Current Branch"
+				"Git: Push"
 			],
 			[
-				"git comm",
+				"statu",
+				"Git: Status"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"sycss",
+				"Set Syntax: CSS3"
+			],
+			[
+				"synsc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"gitcomm",
 				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git statu",
+				"Git: Status"
 			],
 			[
 				"git add",
 				"Git: Add..."
 			],
 			[
-				"git",
-				"Git: Add..."
+				"git st",
+				"Git: Status"
 			],
 			[
-				"ind",
-				"Indentation: Reindent Lines"
+				"git status",
+				"Git: Status"
 			],
 			[
-				"setting",
-				"Preferences: Settings - Default"
+				"git push",
+				"Git: Push"
 			],
 			[
-				"panr",
-				"Origami: Create Pane on the Right"
-			],
-			[
-				"paneb",
-				"Origami: Create Pane Below"
-			],
-			[
-				"createp",
-				"Origami: Create Pane on the Left"
+				"gitstat",
+				"Git: Status"
 			],
 			[
 				"destr",
 				"Origami: Destroy Current Pane"
 			],
 			[
-				"paner",
-				"Origami: Create Pane with File on the Right"
-			],
-			[
-				"destroright",
-				"Origami: Destroy Pane on the Right"
-			],
-			[
-				"creat",
-				"Origami: Create Pane with File on the Right"
-			],
-			[
-				"destrigh",
-				"Origami: Destroy Pane on the Right"
-			],
-			[
-				"defa",
-				"Preferences: Settings - Default"
-			],
-			[
-				"l",
-				"Schemr: List all schemes"
-			],
-			[
-				"browse",
-				"Preferences: Browse Packages"
-			],
-			[
-				"lint",
-				"SublimeLinter: Choose Lint Mode"
-			],
-			[
-				"key",
-				"Preferences: Key Bindings - Default"
-			],
-			[
-				"destbe",
-				"Origami: Destroy Pane Below"
-			],
-			[
-				"panerigh",
-				"Origami: Create Pane on the Right"
-			],
-			[
-				"panebe",
-				"Origami: Create Pane Below"
-			],
-			[
-				"destrcurr",
-				"Origami: Destroy Current Pane"
-			],
-			[
-				"destroycurrent",
-				"Origami: Destroy Current Pane"
-			],
-			[
-				"create pane righ",
-				"Origami: Create Pane on the Right"
-			],
-			[
-				"panebelow",
-				"Origami: Create Pane with File Below"
+				"theme",
+				"Themr: List themes"
 			],
 			[
 				"them",
 				"Themr: List themes"
 			],
 			[
-				"brow",
-				"Preferences: Browse Packages"
+				"mark",
+				"SublimeLinter: Choose Mark Style"
 			],
 			[
-				"addto",
-				"Schemr: Add current scheme to favorites"
+				"def",
+				"Preferences: Settings - Default"
 			],
 			[
-				"listthe",
-				"Themr: List themes"
+				"word",
+				"Word Wrap: Toggle"
 			],
 			[
-				"cust",
-				"Schemr: Add current scheme to favorites"
+				"wor",
+				"Word Wrap: Toggle"
 			],
 			[
-				"list",
+				"html",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"listal",
 				"Schemr: List all schemes"
 			],
 			[
@@ -444,271 +499,235 @@
 				"Schemr: List all schemes"
 			],
 			[
-				"linter",
-				"SublimeLinter: Choose Mark Style"
-			],
-			[
-				"li",
-				"Schemr: List all schemes"
-			],
-			[
-				"list them",
-				"Themr: List themes"
-			],
-			[
-				"listthemes",
-				"Themr: List themes"
-			],
-			[
-				"ne",
-				"Themr: Next theme"
-			],
-			[
-				"themr",
-				"Themr: Next theme"
-			],
-			[
-				"in",
-				"Package Control: Install Package"
-			],
-			[
-				"sub",
-				"SublimeLinter: Choose Gutter Theme"
-			],
-			[
-				"remo",
-				"Package Control: Remove Package"
-			],
-			[
-				"rem",
-				"Package Control: Remove Package"
-			],
-			[
-				"disa",
-				"Package Control: Disable Package"
-			],
-			[
-				"th",
-				"SublimeLinter: Choose Gutter Theme"
-			],
-			[
-				"alig",
-				"Preferences: Alignment Key Bindings – Default"
-			],
-			[
-				"sy",
-				"Set Syntax: HTML"
-			],
-			[
-				"case",
-				"Convert Case: Lower Case"
-			],
-			[
-				"cssb",
-				"Snippet: CSSBrackets"
-			],
-			[
-				"list pack",
-				"Package Control: List Packages"
-			],
-			[
-				"ke",
-				"Preferences: Key Bindings - User"
-			],
-			[
-				"remove",
-				"Emmet: Remove Tag"
-			],
-			[
-				"br",
-				"Side Bar: Refresh"
-			],
-			[
-				"desr",
-				"Origami: Destroy Pane on the Right"
-			],
-			[
-				"panebel",
-				"Origami: Create Pane Below"
-			],
-			[
-				"destrbelo",
-				"Origami: Destroy Pane Below"
-			],
-			[
-				"paneleft",
-				"Origami: Create Pane on the Left"
-			],
-			[
-				"pane bel",
-				"Origami: Create Pane with File Below"
-			],
-			[
-				"destri",
-				"Origami: Destroy Pane on the Right"
-			],
-			[
-				"brpw",
-				"Preferences: Browse Packages"
-			],
-			[
-				"panerig",
-				"Origami: Create Pane with File on the Right"
-			],
-			[
-				"goto",
-				"Emmet: Go to Matching Pair"
-			],
-			[
-				"listall",
-				"Schemr: List all schemes"
-			],
-			[
-				"pane",
-				"Origami: Create Pane with File on the Right"
+				"togg",
+				"Word Wrap: Toggle"
 			],
 			[
 				"sche",
 				"Schemr: List all schemes"
 			],
 			[
-				"verticami",
-				"Snippet: vertical-align:middle"
-			],
-			[
-				"vertica	",
-				"Snippet: vertical-align"
-			],
-			[
-				"lista",
+				"schem",
 				"Schemr: List all schemes"
 			],
 			[
-				"listal",
-				"Schemr: List all schemes"
+				"syns",
+				"Set Syntax: SCSS"
 			],
 			[
-				"lsitall",
-				"Schemr: List all schemes"
+				"brose",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"move",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"tag",
+				"Emmet: Rename Tag"
+			],
+			[
+				"destri",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"creatpanebel",
+				"Origami: Create Pane Below"
+			],
+			[
+				"dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"vrow",
+				"View In Browser"
+			],
+			[
+				"cre",
+				"Origami: Create Pane with File on the Right"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"destrigh",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"footer",
+				"Snippet: <footer>"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"dropdown",
+				"Snippet: ZURB Foundation 5 Dropdown Buttons"
+			],
+			[
+				"set synscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"linteruser",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
 			],
 			[
 				"destrrigh",
 				"Origami: Destroy Pane on the Right"
 			],
 			[
-				"valig",
-				"Snippet: vertical-align"
+				"creapanri",
+				"Origami: Create Pane on the Right"
 			],
 			[
-				"ins",
+				"destp",
+				"Origami: Destroy Pane Above"
+			],
+			[
+				"destpa",
+				"Origami: Destroy Pane Above"
+			],
+			[
+				"wordwr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
 				"Package Control: Install Package"
 			],
 			[
-				"destor",
-				"Origami: Destroy Pane on the Right"
+				"crepable",
+				"Origami: Create Pane with File Below"
 			],
 			[
-				"destroy current",
+				"movbel",
+				"Origami: Move File to Pane Below"
+			],
+			[
+				"topbar",
+				"Snippet: ZURB Foundation 5 Topbar"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"destrcu",
 				"Origami: Destroy Current Pane"
 			],
 			[
-				"list all",
-				"Schemr: List all schemes"
+				"minim",
+				"View: Toggle Minimap"
 			],
 			[
-				"pane bleo",
+				"panri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"procl",
+				"Project: Close"
+			],
+			[
+				"togglelin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"panebel",
 				"Origami: Create Pane Below"
 			],
 			[
-				"emmet",
-				"Emmet: Reload Extensions"
+				"sassb",
+				"SassBeautify"
 			],
 			[
-				"lis",
-				"Schemr: List favorite schemes"
+				"destpab",
+				"Origami: Destroy Pane Below"
 			],
 			[
-				"lisall",
-				"Schemr: List all schemes"
+				"creatpanwbe",
+				"Origami: Create Pane with File Below"
 			],
 			[
-				"align",
-				"Preferences: Alignment File Settings – User"
+				"creatpabe",
+				"Origami: Create Pane with File Below"
 			],
 			[
-				"listf",
-				"Schemr: List favorite schemes"
+				"brow",
+				"Preferences: Browse Packages"
 			],
 			[
-				"lift",
-				"Themr: List favorite themes"
+				"projecl",
+				"Project: Close"
 			],
 			[
-				"sublimelint",
-				"SublimeLinter: Choose Lint Mode"
+				"browe",
+				"Preferences: Browse Packages"
 			],
 			[
-				"linter sett",
-				"Preferences: SublimeLinter Settings – User"
+				"indent",
+				"Origami: Destroy Pane on the Left"
 			],
 			[
-				"alignment",
-				"Preferences: Alignment File Settings – Default"
+				"ind",
+				"Indentation: Reindent Lines"
 			],
 			[
-				"upgra",
-				"Package Control: Upgrade Package"
+				"defa",
+				"Preferences: Settings - Default"
 			],
 			[
-				"alignta",
-				"Preferences: Alignment Key Bindings – Default"
+				"offcan",
+				"Snippet: ZURB Foundation 5 Offcanvas"
 			],
 			[
-				"aligntab",
-				"Preferences: Alignment Key Bindings – Default"
+				"reatpr",
+				"Origami: Create Pane on the Right"
 			],
 			[
-				"package cont",
-				"Package Control: Upgrade Package"
+				"panerigh",
+				"Origami: Move File to Pane on the Right"
 			],
 			[
-				"prefer",
-				"Preferences: Alignment Key Bindings – Default"
-			],
-			[
-				"alignm",
-				"Preferences: Alignment Key Bindings – User"
-			],
-			[
-				"align tab",
-				"Preferences: Alignment Key Bindings – Default"
-			],
-			[
-				"lint key",
-				"Preferences: SublimeLinter Key Bindings – Default"
-			],
-			[
-				"",
-				"AlignTab: Live Preview Mode"
-			],
-			[
-				"dis",
-				"Package Control: Disable Package"
-			],
-			[
-				"package",
-				"Package Control: Disable Package"
-			],
-			[
-				"addcurr",
-				"Themr: Add current theme to favorites"
+				"snippefoun",
+				"Snippet: ZURB Foundation 5 Offcanvas"
 			]
 		],
-		"width": 583.0
+		"width": 561.0
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 218.0,
 		"history":
 		[
 		]
@@ -724,148 +743,150 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/MacAir/Desktop/Zurb"
+		"/Users/MacAir/Desktop/ZF-sassy-compass"
 	],
 	"file_history":
 	[
-		"/Users/MacAir/Desktop/Zurb/stylesheets/app.css",
-		"/Users/MacAir/Desktop/Zurb/scss/app.scss",
-		"/Users/MacAir/Desktop/Zurb/bower_components/modernizr/feature-detects/a-download.js",
-		"/Users/MacAir/Desktop/Zurb/bower_components/jquery/src/css/addGetHookIf.js",
-		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
-		"/Users/MacAir/Desktop/Zurb/index.html",
-		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
-		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/User/openinbrowser.sublime-settings",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/scss/_settings.scss",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/modernizr/feature-detects/custom-protocol-handler.js",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/modernizr/feature-detects/css-userselect.js",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/scss/_custom-settings.scss",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/config.codekit",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/scss/app.scss",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/stylesheets/app.css",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/index.html",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/modernizr/feature-detects/css-scrollbars.js",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/modernizr/feature-detects/emoji.js",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/modernizr/feature-detects/css-remunit.js",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/README.md",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/modernizr/feature-detects/style-scoped.js",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/modernizr/feature-detects/script-async.js",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/jquery/src/selector-native.js",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/jquery/src/css.js",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/jquery/src/css/var/cssExpand.js",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/foundation/scss/foundation.scss",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/foundation/scss/normalize.scss",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/jquery/src/css/curCSS.js",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/modernizr/test/caniuse_files/style.css",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/foundation/scss/foundation/_functions.scss",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/foundation/scss/foundation/_settings.scss",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/foundation/scss/foundation/components/_accordion.scss",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/foundation/scss/foundation/components/_breadcrumbs.scss",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/foundation/scss/foundation/components/_buttons.scss",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/bower_components/jquery/src/ajax/script.js",
+		"/Users/MacAir/Desktop/ZF-sassy-compass/zurb.sublime-project",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/css/layouts/index.css",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/package.json",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/index.html",
 		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/MacAir/Desktop/Zurb/bower_components/jquery-placeholder/tests/index.html",
-		"/Users/MacAir/Desktop/Test2.6/stylesheets/app.css",
-		"/Users/MacAir/Desktop/Test2.6/scss/app.scss",
-		"/Users/MacAir/Desktop/Test2.6/scss/_settings.scss",
-		"/Users/MacAir/Desktop/Test2.6/config.rb",
-		"/Users/MacAir/Desktop/Test2.6/scss/_custom-settings.scss",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/blog.html",
 		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/Users/MacAir/Desktop/Test2.6/img/index.html",
-		"/Users/MacAir/Desktop/Test2.6/index.html",
-		"/Users/MacAir/Desktop/Test2.6/bower_components/jquery.scrollTo/demo/index.html",
-		"/Users/MacAir/Desktop/Test2.6/bower_components/jquery/src/dimensions.js",
-		"/Users/MacAir/Desktop/Test2.6/bower_components/jquery-placeholder/demo.html",
-		"/Users/MacAir/Desktop/Test2.6/fonts/foundation-icons/svgs/fi-no-smoking.svg",
-		"/Users/MacAir/Desktop/Test2.6/fonts/foundation-icons/svgs/fi-social-instagram.svg",
-		"/Users/Home/Desktop/Test2.6/scss/_settings.scss",
-		"/Users/Home/Desktop/Test2.6/stylesheets/app.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/foundation-icons/foundation_icons_general_enclosed/stylesheets/general_enclosed_foundicons_ie7.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/foundation-icons/foundation_icons_social/stylesheets/social_foundicons.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/foundation-icons/foundation_icons_general/stylesheets/general_foundicons.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/foundation-icons/foundation_icons_accessibility/stylesheets/accessibility_foundicons.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/foundation-icons/foundation_icons_general_enclosed/stylesheets/general_enclosed_foundicons.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.sass/stylesheets/animate/animations/attention-seekers/_wobble.scss",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.sass/test/public/stylesheets/test.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.sass/test/sass/stylesheet.scss",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.sass/test/public/stylesheets/stylesheet.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/jquery.scrollTo/demo/css/style.old.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/test/caniuse_files/style.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/jquery.scrollTo/demo/css/style.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/flippers/flipOutY.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/sliders/slideOutRight.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/lightspeed/lightSpeedOut.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/bouncing_exits/bounceOutLeft.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/bouncing_exits/bounceOutDown.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/bouncing_entrances/bounceInRight.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/sliders/slideOutLeft.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/sliders/slideOutDown.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/sliders/slideInRight.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/lightspeed/lightSpeedIn.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/fading_exits/fadeOutRight.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/bouncing_entrances/bounceInLeft.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/bouncing_entrances/bounceInDown.css",
-		"/Users/Home/Desktop/Test2.6/fonts/font-awesome/css/font-awesome.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/fontawesome/css/font-awesome.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/sliders/slideInLeft.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/sliders/slideInDown.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/fading_exits/fadeOutLeft.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/fading_exits/fadeOutDown.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/fading_entrances/fadeInRight.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/bouncing_exits/bounceOutUp.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/sliders/slideOutUp.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/fading_entrances/fadeInLeft.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/fading_entrances/fadeInDown.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/bouncing_entrances/bounceInUp.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/sliders/slideInUp.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/fading_exits/fadeOutUp.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/flippers/flipOutX.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/fading_entrances/fadeInUp.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/foundation/css/foundation.min.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/flippers/flipInY.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/flippers/flipInX.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/attention_seekers/rubberBand.css",
-		"/Users/Home/Desktop/Test2.6/fonts/foundation-icons/foundation-icons.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/rotating_exits/rotateOut.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/bouncing_exits/bounceOut.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/rotating_entrances/rotateIn.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/bouncing_entrances/bounceIn.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/_base.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/specials/rollOut.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/fading_exits/fadeOut.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/animate.min.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/specials/rollIn.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/fading_entrances/fadeIn.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/foundation/css/foundation.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/attention_seekers/wobble.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/attention_seekers/bounce.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/test/qunit/qunit.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/foundation/css/normalize.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/specials/hinge.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/attention_seekers/swing.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/attention_seekers/shake.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/attention_seekers/pulse.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/attention_seekers/flash.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/flippers/flip.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/source/attention_seekers/tada.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/normalize-css/normalize.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/get-size/test/tests.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/sass-boilerplate/starter.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/animate.css/animate.css",
-		"/Users/Home/Desktop/Test2.6/fonts/AvenirLTStd/fonts.css",
-		"/Users/Home/Desktop/Test2.6/fonts/Moderne Sans/font.css",
-		"/Users/Home/Desktop/Test2.6/fonts/Kirvy/font.css",
-		"/Users/Home/Desktop/Test2.6/fonts/Intro Cond/font.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/sass-boilerplate/main.css",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-remunit.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-regions.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-positionsticky.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-pointerevents.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-objectfit.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-mediaqueries.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-mask.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-lastchild.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-hyphens.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-filters.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-displaytable.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-displayrunin.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-cubicbezierrange.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-calc.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-boxsizing.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-backgroundsizecover.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-backgroundrepeat.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-overflow-scrolling.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-backgroundposition-shorthand.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/jquery/src/css.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-supports.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-subpixelfont.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-shapes.js",
-		"/Users/Home/Desktop/Test2.6/bower_components/modernizr/feature-detects/css-scrollbars.js",
-		"/Users/Home/Desktop/Test2.6/config.rb",
-		"/Users/Home/Google Drive/Sync/resume.html"
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/performance.html",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/dittotrade.html",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/disclaimer.html",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/marketing.html",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/contactus.html",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/pricing.html",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/aboutus.html",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/README.md",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/config.codekit",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/home.html",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/_index.html",
+		"/Users/MacAir/Dropbox/Dev/Test Assets/LeadTrader-Demo-Site/.gitignore",
+		"/Users/MacAir/Desktop/designdabble.github.io/scss/app.scss",
+		"/Users/MacAir/Desktop/designdabble.github.io/README.md",
+		"/Users/MacAir/Desktop/designdabble.github.io/bower_components/jquery-placeholder/jquery.placeholder.js",
+		"/Users/MacAir/Downloads/Root Cleaner v3.3.1 APK/Root Cleaner v3.3.1 APK/Root Cleaner v3.3.1 APK/Instructions.txt",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/MacAir/Desktop/designdabble.github.io/index.html",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/MacAir/Desktop/designdabble.github.io/scss/components/_section-titles.scss",
+		"/Users/MacAir/Desktop/designdabble.github.io/scss/_settings.scss",
+		"/Users/MacAir/Desktop/designdabble.github.io/js/component/cbpGridGallery.js",
+		"/Users/MacAir/Desktop/designdabble.github.io/scss/components/_grid-gallery.scss",
+		"/Users/MacAir/Desktop/designdabble.github.io/bower_components/foundation/scss/foundation/components/_global.scss",
+		"/Users/MacAir/Downloads/WP/themes/Hazel v2.2 - Multi-Concept Creative WordPress Theme/licensing/README_License.txt",
+		"/Users/MacAir/Downloads/iMobie PodTrans Pro 3.6.6 Build 20131106 + Key/iMobie PodTrans Pro 3.6.6 Build 20131106 + Key/~Get Your Software Here/Instructions.txt",
+		"/Users/MacAir/Downloads/Agile Web Solutions 1Password v4.4.2 Multilingual MacOSX Cracked-CORE/core.nfo",
+		"/Users/MacAir/Desktop/Test2.6/robots.txt",
+		"/Users/MacAir/Desktop/ZF 5.4.5/5.4.5.sublime-project",
+		"/Users/MacAir/Desktop/designdabble.github.io/scss/components/_media-query.scss",
+		"/Users/MacAir/Desktop/designdabble.github.io/stylesheets/app.css",
+		"/Users/MacAir/Desktop/designdabble.github.io/bower_components/modernizr/test/js/setup.js",
+		"/Users/MacAir/Desktop/designdabble.github.io/img/gridgallery/slideshow-bear.png",
+		"/Users/MacAir/Desktop/designdabble.github.io/scss/components/_layout.scss",
+		"/Users/MacAir/Desktop/designdabble.github.io/bower_components/modernizr/feature-detects/performance.js",
+		"/Users/MacAir/Desktop/designdabble.github.io/bower_components/jquery/src/var/push.js",
+		"/Users/MacAir/Desktop/designdabble.github.io/github.io.sublime-project",
+		"/Users/MacAir/Desktop/designdabble.github.io/.gitignore",
+		"/Users/MacAir/Desktop/designdabble.github.io/img/gridgallery/andy_illustrated.svg",
+		"/Users/MacAir/Desktop/designdabble.github.io/CNAME",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/User/SCSS.sublime-settings",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/User/CSS3.sublime-settings",
+		"/Users/MacAir/Desktop/designdabble.github.io/config.codekit",
+		"/Users/MacAir/Desktop/designdabble.github.io/bower_components/eventEmitter/component.json",
+		"/Users/MacAir/Desktop/designdabble.github.io/bower_components/modernizr/modernizr.js",
+		"/Users/MacAir/Desktop/designdabble.github.io/bower_components/jquery/MIT-LICENSE.txt",
+		"/Users/MacAir/Desktop/designdabble.github.io/img/gridgallery/arrow-down.svg",
+		"/Users/MacAir/Desktop/designdabble.github.io/bower_components/jquery/src/css/addGetHookIf.js",
+		"/Users/MacAir/Desktop/designdabble.github.io/fonts/proximanova/otf/ProximaNova-RegItalic.otf",
+		"/Users/MacAir/Desktop/designdabble.github.io/bower_components/fastclick/LICENSE",
+		"/Users/MacAir/Desktop/Portfolio-Update/scss/_settings.scss",
+		"/Users/MacAir/Desktop/Portfolio-Update/bower_components/fastclick/LICENSE",
+		"/Users/MacAir/Desktop/Portfolio-Update/CNAME",
+		"/Users/MacAir/Desktop/Portfolio-Update/config.codekit",
+		"/Users/MacAir/Desktop/ZF 5.4.5/bower_components/modernizr/test/caniuse.html",
+		"/Users/MacAir/Desktop/ZF 5.4.5/scss/components/_nav.scss",
+		"/Users/MacAir/Desktop/ZF 5.4.5/bower_components/foundation/css/normalize.css",
+		"/Users/MacAir/Desktop/ZF 5.4.5/config.codekit",
+		"/Users/MacAir/Desktop/Terminal Log",
+		"/Users/MacAir/Desktop/ZF 5.4.5/README.md",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/MacAir/Desktop/ZF 5.4.5/.bowerrc",
+		"/Users/MacAir/Desktop/ZF 5.4.5/scss/components/_media-query.scss",
+		"/Users/MacAir/Desktop/ZF 5.4.5/bower_components/modernizr/feature-detects/quota-management-api.js",
+		"/Users/MacAir/Desktop/ZF 5.4.5/bower_components/matches-selector/README.md",
+		"/Users/MacAir/Desktop/ZF 5.4.5/bower_components/jquery/src/manipulation/var/rcheckableType.js",
+		"/Users/MacAir/Desktop/ZF 5.4.5/bower_components/modernizr/feature-detects/workers-dataworkers.js",
+		"/Users/MacAir/Desktop/ZF 5.4.5/bower_components/modernizr/media/Modernizr 2 Logo.ai",
+		"/Users/MacAir/Desktop/ZF 5.4.5/bower_components/fastclick/LICENSE",
+		"/Users/MacAir/Desktop/ZF 5.4.5/scss/components/_layout.scss",
+		"/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/MacAir/Desktop/ZF 5.4.5/index.html",
+		"/Users/MacAir/Desktop/ZF 5.4.5/scss/components/_section-titles.scss",
+		"/Users/MacAir/Desktop/ZF 5.4.5/scss/app.scss",
+		"/Users/MacAir/Desktop/ZF 5.4.5/scss/components/_grid-gallery.scss",
+		"/Users/MacAir/Desktop/ZF 5.4.5/scss/_settings.scss",
+		"/Users/MacAir/Downloads/README.md",
+		"/Users/MacAir/Desktop/ZF 5.4.5/bower_components/foundation/scss/foundation/components/_global.scss",
+		"/Users/MacAir/Desktop/ZF 5.4.5/scss/components/_absolute-center.scss",
+		"/Users/MacAir/Desktop/ZF 5.4.5/fonts/archer/archerpro-bold.otf",
+		"/Users/MacAir/Desktop/ZF 5.4.5/stylesheets/app.css",
+		"/Users/MacAir/Desktop/ZF 5.4.5/scss/components/_separator.scss",
+		"/Users/MacAir/Desktop/ZF 5.4.5/scss/components/_forms.scss",
+		"/Users/MacAir/Desktop/ZF 5.4.4/stylesheets/app.css",
+		"/Users/MacAir/Desktop/ZF 5.4.4/scss/components/_grid-gallery.scss",
+		"/Users/MacAir/Desktop/ZF 5.4.4/js/app.js"
 	],
 	"find":
 	{
-		"height": 42.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
 		"height": 106.0,
 		"where_history":
 		[
+			"",
+			"_nav.scss",
 			"",
 			"index.html",
 			"_custom-settings.scss",
@@ -894,6 +915,118 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"line",
+			"pure",
+			"prettify",
+			"a,pure",
+			"roboto",
+			"h2",
+			"a.post",
+			"{\n",
+			"post",
+			"subscribing",
+			"pure",
+			"banner",
+			"#b",
+			"button",
+			"form",
+			"12192",
+			"#",
+			"pure-menu-head",
+			"footer",
+			"button",
+			"margin",
+			"%;\n",
+			"5em",
+			"button",
+			"content",
+			"post-description",
+			"post",
+			"head",
+			"7171ab",
+			"#8",
+			"padding: 0.8em",
+			"padding: 0.6",
+			"font",
+			"%;\n",
+			"footer",
+			"pure-form",
+			"header",
+			"menu",
+			"home.html",
+			"s",
+			"slideshow",
+			"\">\n",
+			" {",
+			"edits",
+			"ditto-atom",
+			"social-buttons",
+			" \n",
+			"social-button",
+			"adaptation",
+			";}",
+			"absolute-center",
+			"%;\n",
+			"button",
+			"    }",
+			"text-align",
+			"set-8",
+			"foot",
+			"font-size",
+			";\n",
+			"//\n",
+			".\n",
+			"after",
+			"/*!",
+			"header-font-fam",
+			".img-gallery",
+			"button",
+			"//",
+			"button",
+			";  ",
+			"figcaption",
+			"background",
+			"em",
+			"\",\n",
+			"bullet",
+			"list",
+			"em",
+			"Searching",
+			"em",
+			"border-rad",
+			"media",
+			"});",
+			">\n",
+			"#",
+			"media-query",
+			"4px",
+			";\n",
+			"gutter",
+			"background",
+			";\n",
+			"auto",
+			"padding",
+			"background-color",
+			"background",
+			"centered",
+			"gutter",
+			"\",\n",
+			"column-width",
+			"row",
+			");\n",
+			"header-font-color",
+			"header",
+			"\n//",
+			"link-color",
+			"anchor-font-color",
+			"link-color",
+			"link",
+			"subpixel_antialias",
+			"font",
+			"gutter",
+			"table",
+			";\n",
+			"helvetica",
 			"global-radius",
 			"morph",
 			"caret",
@@ -909,126 +1042,17 @@
 			"is-visible",
 			"margin",
 			"button",
-			"morph-content",
-			"skills",
-			"if",
-			"contact",
-			"footer",
-			"window",
-			"contact",
-			"a {",
-			"text-decoration: underline;",
-			"underline",
-			"contact",
-			"icon",
-			"webkit",
-			"breadcrumb",
-			"text-decoration: underline;",
-			"underline",
-			"3",
-			"2",
-			"line-height",
-			"h6",
-			"icons.png",
-			"arrow",
-			"molecule",
-			"img_slideshow",
-			"img_",
-			"branding",
-			"bb_",
-			"img",
-			"arrow",
-			"whitespace",
-			"nav",
-			"select",
-			";\n",
-			"width",
-			"inflow",
-			"80px",
-			"inflow",
-			"background",
-			"skills",
-			" \n",
-			"is-inline",
-			"contain-to-grid",
-			"body-bg",
-			"body-font",
-			"heading",
-			"bright",
-			"button",
-			"hide-for-small",
-			"a name",
-			"input",
-			"button",
-			"content",
-			"content-style",
-			"form",
-			"float",
-			"\"\n",
-			"button",
-			"float",
-			"section",
-			"form",
-			"background",
-			"figcaption",
-			"%;",
-			"center-block",
-			"slides",
-			"#grid-gallery",
-			"scr",
-			"scroll",
-			"{\n",
-			" ><",
-			"top-bar",
-			"rem",
-			"primary",
-			"font",
-			"background",
-			"ul .list",
-			"inline-list",
-			"Unordere",
-			"list",
-			"title",
-			"3c",
-			"inline",
-			";\n",
-			"  \n",
-			"coral",
-			"pull",
-			"selfie",
-			"width",
-			"2",
-			"fixed",
-			"code",
-			"in-line",
-			"O",
-			"I",
-			"C",
-			"A",
-			"center-container",
-			"cnter-container",
-			"os x",
-			"\n}",
-			"julep",
-			"}, ",
-			"contain",
-			"overflow",
-			"position",
-			"gutter",
-			"margin",
-			"class=\"right\"",
-			"overflow",
-			"hambur",
-			",\n",
-			"%\n",
-			"7"
+			"morph-content"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"696DC4",
+			"rem",
+			".",
 			"show-for-large",
 			"slideshow-block",
 			"",
@@ -1066,145 +1090,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "scss/_settings.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 45356,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								849,
-								849
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "scss/app.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1522,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								334,
-								334
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "scss/_custom-settings.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "_custom-settings.scss",
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "index2.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 489,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								248,
-								248
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				}
-			]
-		},
-		{
 			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 4,
+					"buffer": 0,
 					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6726,
+						"buffer_size": 6811,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								248,
-								248
+								634,
+								634
 							]
 						],
 						"settings":
@@ -1221,11 +1124,102 @@
 					"type": "text"
 				}
 			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "scss/_custom-settings.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scss/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1495,
+								1495
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 798.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/MacAir/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1126,
+								1167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 604.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -1242,37 +1236,41 @@
 				1
 			],
 			[
-				1,
 				0,
-				2,
-				1
+				1,
+				1,
+				2
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.61338936942,
 			1.0
 		],
 		"rows":
 		[
 			0.0,
+			0.55153617443,
 			1.0
 		]
 	},
 	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
 	"output.find_results":
 	{
 		"height": 112.0
 	},
 	"output.git":
 	{
-		"height": 97.0
+		"height": 68.0
 	},
 	"project": "zurb.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1285,32 +1283,304 @@
 				"scss/app.scss"
 			],
 			[
+				"sett",
+				"scss/_settings.scss"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"custom",
+				"scss/_custom-settings.scss"
+			],
+			[
+				"set",
+				"scss/_settings.scss"
+			],
+			[
+				"app.css",
+				"stylesheets/app.css"
+			],
+			[
+				"app.scs",
+				"scss/app.scss"
+			],
+			[
+				".css",
+				"stylesheets/app.css"
+			],
+			[
+				"remo",
+				"bower_components/modernizr/feature-detects/emoji.js"
+			],
+			[
+				"app.",
+				"scss/app.scss"
+			],
+			[
+				"scss",
+				"scss/app.scss"
+			],
+			[
 				"ind",
 				"index.html"
 			],
 			[
-				"_sett",
+				".htm",
+				"dittotrade.html"
+			],
+			[
+				"blog",
+				"blog.html"
+			],
+			[
+				"hom",
+				"home.html"
+			],
+			[
+				"css",
+				"css/layouts/index.css"
+			],
+			[
+				"in",
+				"_index.html"
+			],
+			[
+				"ajax",
+				"bower_components/jquery/src/ajax.js"
+			],
+			[
+				"grid",
+				"scss/components/_grid-gallery.scss"
+			],
+			[
+				"a",
+				"scss/app.scss"
+			],
+			[
+				"s",
 				"scss/_settings.scss"
+			],
+			[
+				"gri",
+				"scss/components/_grid-gallery.scss"
+			],
+			[
+				"app.cs",
+				"stylesheets/app.css"
+			],
+			[
+				"med",
+				"scss/components/_media-query.scss"
+			],
+			[
+				"igno",
+				".gitignore"
+			],
+			[
+				"lay",
+				"scss/components/_layout.scss"
+			],
+			[
+				"media",
+				"scss/components/_media-query.scss"
+			],
+			[
+				"sep",
+				"scss/components/_separator.scss"
+			],
+			[
+				"la",
+				"scss/components/_layout.scss"
+			],
+			[
+				"cna",
+				"CNAME"
+			],
+			[
+				".md",
+				"README.md"
+			],
+			[
+				"me",
+				"scss/components/_media-query.scss"
+			],
+			[
+				"sec",
+				"scss/components/_section-titles.scss"
+			],
+			[
+				"nav",
+				"scss/components/_nav.scss"
+			],
+			[
+				"abs",
+				"scss/components/_absolute-center.scss"
+			],
+			[
+				"app.js",
+				"js/app.js"
+			],
+			[
+				"na",
+				"scss/components/_nav.scss"
+			],
+			[
+				"gr",
+				"scss/components/_grid-gallery.scss"
+			],
+			[
+				"sepasr",
+				"scss/components/_separator.scss"
+			],
+			[
+				"sect",
+				"scss/components/_section-titles.scss"
+			],
+			[
+				"medi",
+				"scss/components/_media-query.scss"
+			],
+			[
+				"settings",
+				"scss/_settings.scss"
+			],
+			[
+				"ett",
+				"bower_components/eventie/test.html"
+			],
+			[
+				"m",
+				"scss/components/_media-query.scss"
+			],
+			[
+				"",
+				"scss/components/_section-titles.scss"
+			],
+			[
+				"fontawev",
+				"scss/fontawesome/_variables.scss"
+			],
+			[
+				"font",
+				"scss/fontawesome/_font-awesome.scss"
+			],
+			[
+				"secti",
+				"scss/components/_section-titles.scss"
+			],
+			[
+				"fontaw",
+				"bower_components/fontawesome/scss/font-awesome.scss"
 			],
 			[
 				"se",
 				"scss/_settings.scss"
 			],
 			[
-				"sett",
+				"morph",
+				"js/component/_morph-button.scss"
+			],
+			[
+				"ap",
+				"scss/app.scss"
+			],
+			[
+				"aja",
+				"bower_components/jquery/src/ajax.js"
+			],
+			[
+				"ti",
+				"scss/components/_titles.scss"
+			],
+			[
+				"dropdown",
+				"scss/components/_dropdown.scss"
+			],
+			[
+				"app.j",
+				"js/app.js"
+			],
+			[
+				"tit",
+				"scss/components/_titles.scss"
+			],
+			[
+				"title",
+				"scss/components/_titles.scss"
+			],
+			[
+				"app.sc",
+				"scss/app.scss"
+			],
+			[
+				"layou",
+				"scss/components/_layouts.scss"
+			],
+			[
+				"func",
+				"bower_components/foundation/scss/foundation/_functions.scss"
+			],
+			[
+				"function",
+				"bower_components/foundation/scss/foundation/_functions.scss"
+			],
+			[
+				"topb",
+				"bower_components/foundation/scss/foundation/components/_top-bar.scss"
+			],
+			[
+				"scss/foundation/",
+				"bower_components/foundation/scss/foundation/_functions.scss"
+			],
+			[
+				"confi",
+				"config.rb"
+			],
+			[
+				"config",
+				"config.rb"
+			],
+			[
+				"scss/foundation",
+				"bower_components/foundation/scss/foundation/_functions.scss"
+			],
+			[
+				"setti",
 				"scss/_settings.scss"
+			],
+			[
+				"goog",
+				"js/googleanimate.js"
+			],
+			[
+				"cust",
+				"scss/_custom.scss"
+			],
+			[
+				"styles",
+				"scss/_styles.scss"
 			],
 			[
 				"index",
 				"index.html"
 			],
 			[
-				"mor",
-				"scss/_morph.scss"
+				"setting",
+				"scss/_settings.scss"
 			],
 			[
-				"cust",
-				"scss/_custom-settings.scss"
+				"read",
+				"README.md"
+			],
+			[
+				"_sett",
+				"scss/_settings.scss"
+			],
+			[
+				"mor",
+				"scss/_morph.scss"
 			],
 			[
 				"din",
@@ -1321,28 +1591,8 @@
 				"stylesheets/app.css"
 			],
 			[
-				"morph",
-				"scss/_morph.scss"
-			],
-			[
-				"fontaw",
-				"bower_components/fontawesome/css/font-awesome.css"
-			],
-			[
 				"butto",
 				"bower_components/foundation/scss/foundation/components/_buttons.scss"
-			],
-			[
-				"inde",
-				"img/index.html"
-			],
-			[
-				"",
-				"/private/var/folders/84/1nwgf1992cbbn40j0qh6l0x40000gn/T/wzQL.jYvNR7/smart-fixed-navigation/index.html"
-			],
-			[
-				"set",
-				"scss/_settings.scss"
 			],
 			[
 				"cu",
@@ -1351,18 +1601,6 @@
 			[
 				"_se",
 				"scss/_settings.scss"
-			],
-			[
-				"app.",
-				"scss/app.scss"
-			],
-			[
-				"abs",
-				"scss/_absolute-center.scss"
-			],
-			[
-				"a",
-				"stylesheets/app.css"
 			],
 			[
 				"fontawesome",
@@ -1375,10 +1613,6 @@
 			[
 				"ui",
 				"js/vendor/uiMorphingButton_fixed.js"
-			],
-			[
-				"in",
-				"index.html"
 			],
 			[
 				"foundation.js",
@@ -1395,10 +1629,6 @@
 			[
 				"fonta",
 				"fonts/fontawesome/css/font-awesome.css"
-			],
-			[
-				"font",
-				"fonts/fontawesome/scss/font-awesome.scss"
 			],
 			[
 				"font-",
@@ -1441,10 +1671,6 @@
 				"img/andy_illustrated-01.svg"
 			],
 			[
-				"custom",
-				"scss/_custom-settings.scss"
-			],
-			[
 				"ins",
 				"fonts/foundation-icons/svgs/fi-no-smoking.svg"
 			],
@@ -1481,10 +1707,6 @@
 				"scss/_custom-settings.scss"
 			],
 			[
-				"scss",
-				"scss/app.scss"
-			],
-			[
 				"fontawe",
 				"fonts/fontawesome/css/font-awesome.css"
 			],
@@ -1499,10 +1721,6 @@
 			[
 				"fontscss",
 				"scss/_font.scss"
-			],
-			[
-				"ap",
-				"scss/app.scss"
 			],
 			[
 				"_v",
@@ -1533,14 +1751,6 @@
 				"importsettings_customsettings.txt"
 			],
 			[
-				"confi",
-				"config.rb"
-			],
-			[
-				"app.css",
-				"stylesheets/app.css"
-			],
-			[
 				"gl",
 				"bower_components/foundation/scss/foundation/components/_global.scss"
 			],
@@ -1553,16 +1763,8 @@
 				"bower_components/foundation/scss/foundation/components/_global.scss"
 			],
 			[
-				"config",
-				"config.rb"
-			],
-			[
 				"con",
 				"config.codekit"
-			],
-			[
-				"app.sc",
-				"scss/app.scss"
 			],
 			[
 				"i",
@@ -1585,212 +1787,8 @@
 				"config.rb"
 			],
 			[
-				"settings",
-				"scss/_settings.scss"
-			],
-			[
 				".scss",
 				"scss/app.scss"
-			],
-			[
-				"indexd",
-				"indexdefault.html"
-			],
-			[
-				"function",
-				"bower_components/foundation/scss/foundation/_functions.scss"
-			],
-			[
-				"foundat",
-				"bower_components/foundation/css/foundation.css"
-			],
-			[
-				".scs",
-				"scss/app.scss"
-			],
-			[
-				"_c",
-				"scss/_custom.scss"
-			],
-			[
-				"founda",
-				"bower_components/foundation/scss/foundation.scss"
-			],
-			[
-				"found.sc",
-				"bower_components/foundation/scss/foundation.scss"
-			],
-			[
-				"gr",
-				"stylesheets/grid.css"
-			],
-			[
-				"fonti",
-				"fonts/fonticons/fonticons.css"
-			],
-			[
-				"gri",
-				"stylesheets/grid.css"
-			],
-			[
-				"imag",
-				"js/vendor/imagesloaded.pkgd.min.js"
-			],
-			[
-				"cbp",
-				"js/vendor/cbpGridGallery.js"
-			],
-			[
-				"grid",
-				"stylesheets/grid.css"
-			],
-			[
-				"mas",
-				"js/vendor/masonry.pkgd.min.js"
-			],
-			[
-				"mason",
-				"js/vendor/masonry.pkgd.min.js"
-			],
-			[
-				"image",
-				"js/vendor/imagesloaded.pkgd.min.js"
-			],
-			[
-				"cb",
-				"js/vendor/cbpGridGallery.js"
-			],
-			[
-				"masonr",
-				"js/vendor/masonry.pkgd.min.js"
-			],
-			[
-				"co",
-				"config.rb"
-			],
-			[
-				"style",
-				"bower_components/modernizr/test/caniuse_files/style.css"
-			],
-			[
-				"ess",
-				"essentials.html"
-			],
-			[
-				"html",
-				"essentials.html"
-			],
-			[
-				"ht",
-				"FOUND_5/index.html"
-			],
-			[
-				"appcss",
-				"stylesheets/app.css"
-			],
-			[
-				"min",
-				"css/foundation.min.css"
-			],
-			[
-				"norma",
-				"css/normalize.css"
-			],
-			[
-				"magel",
-				"js/foundation/foundation.magellan.js"
-			],
-			[
-				"min.",
-				"css/foundation.min.css"
-			],
-			[
-				"css",
-				"css/essentials.css"
-			],
-			[
-				"resu",
-				"resume.html"
-			],
-			[
-				"res",
-				"resume.html"
-			],
-			[
-				"es",
-				"css/essentials.css"
-			],
-			[
-				"cus",
-				"custom.html"
-			],
-			[
-				"custo",
-				"css/custom.css"
-			],
-			[
-				"js",
-				"js/cbpAnimatedHeader.js"
-			],
-			[
-				"normal",
-				"css/normalize.css"
-			],
-			[
-				"min.css",
-				"css/foundation.min.css"
-			],
-			[
-				"mode",
-				"js/vendor/modernizr.min.js"
-			],
-			[
-				"min.c",
-				"css/foundation.min.css"
-			],
-			[
-				"min.js",
-				"js/foundation.min.js"
-			],
-			[
-				"temp",
-				"temp.html"
-			],
-			[
-				"custom.cs",
-				"css/custom.css"
-			],
-			[
-				"tests",
-				"tests.html"
-			],
-			[
-				"cbh",
-				"js/cbpAnimatedHeader.js"
-			],
-			[
-				"reveal",
-				"js/foundation/foundation.reveal.js"
-			],
-			[
-				"moderni",
-				"js/vendor/modernizr.js"
-			],
-			[
-				"default",
-				"css/default.css"
-			],
-			[
-				"test",
-				"tests.html"
-			],
-			[
-				"reve",
-				"js/foundation/foundation.reveal.js"
-			],
-			[
-				"fou",
-				"css/foundation.css"
 			]
 		],
 		"width": 0.0
@@ -1802,7 +1800,7 @@
 		[
 			[
 				"",
-				"~/Desktop/Essentials/ScatteredPolaroidsGallery/polaroid.sublime-project"
+				"~/Desktop/designdabble.github.io/github.io.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -1815,14 +1813,15 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
-	"show_minimap": false,
+	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": false,
-	"side_bar_width": 204.0,
+	"side_bar_width": 236.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
